@@ -1,0 +1,1 @@
+Description: "A Flask web application for predicting house prices using machine learning. This project includes a trained model for house price prediction based on features like location, size, and number of rooms. The model is deployed using Flask, and the application can be accessed through a simple web interface."
